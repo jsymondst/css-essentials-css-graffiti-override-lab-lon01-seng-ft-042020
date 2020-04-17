@@ -12,7 +12,7 @@ div#wall > div#tag-2{
 /*Done*/#wall .parent #tag-4 {
   display:none;
 }
-div#wall .parent > #tag-5.slick{
+div#wall .parent  #tag-5.slick:empty{
   display: none;
 }
 div#wall div.parent div:last-child div:first-child div#tag-6 {
