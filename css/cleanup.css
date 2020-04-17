@@ -5,7 +5,7 @@
 .tag1 + #tag-2{
   display: none;
 }
-#wall ."slick wicked"{
+#wall ."slick wicked" #tag-3{
   display: none;
 }
 #wall .parent #tag-5{
