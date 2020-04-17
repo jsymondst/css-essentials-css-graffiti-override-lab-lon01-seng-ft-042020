@@ -1,15 +1,15 @@
 /* write your override styles here*/
 
-#wall .tag-1{
+/*Done*/#wall .tag-1{
   display: none;
 }
-div#wall > #tag2{
+div#wall  div#tag2{
   display: none;
 }
-div#wall #tag-3.slick.wicked{
+/*Done*/div#wall #tag-3.slick.wicked{
   display: none;
 }
-#wall .parent #tag-4 {
+/*Done*/#wall .parent #tag-4 {
   display:none;
 }
 div#wall .parent #tag-5.slick{
